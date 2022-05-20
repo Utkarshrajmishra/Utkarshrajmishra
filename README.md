@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **College Project**
+- 🔭 I’m currently working on **Image Processing Application**
 
-- 🌱 I’m currently learning **Machine Learning, React.js, Express,jss**
+- 🌱 I’m currently learning **Dart and Fulter**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Utkarshrajmishra](https://github.com/Utkarshrajmishra)
 
-- 💬 Ask me about **Kotlin, JAVA, C++, Android**
+- 💬 Ask me about **Kotlin, JAVA, Crytography, Android**
 
 - 📫 How to reach me **utkarshrajmishra811545@gmail.com**
 
