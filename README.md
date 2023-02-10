@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **Image Processing Application**
 
-- 🌱 I’m currently learning **Dart and Fulter**
+- 🌱 I’m currently learning **BlockChain**
 
 - 👯 I’m looking to collaborate on **Android Projects**
-
-- 🤝 I’m looking for help with **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Utkarshrajmishra](https://github.com/Utkarshrajmishra)
 
